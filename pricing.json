@@ -1,0 +1,49 @@
+[
+ {
+  "title": "Tapstall",
+  "id": "prod_LVj8BSXeiCjTm",
+  "plans": [
+   {
+    "price": 0.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_Nr6D8rhwWYc86"
+   }
+  ]
+ },
+ {
+  "title": "Tapstall",
+  "id": "prod_d31gep8HxEW24",
+  "plans": [
+   {
+    "price": 7.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_jWquFledgoz6B"
+   },
+   {
+    "price": 60.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_LOEvoldSgFUUI"
+   },
+   {
+    "price": 129.0,
+    "cur": "ZAR",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_VzCVd0ycxGSJg"
+   },
+   {
+    "price": 999.0,
+    "cur": "ZAR",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_wlkFLUdonWAPN"
+   }
+  ]
+ }
+]
