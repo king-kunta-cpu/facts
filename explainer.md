@@ -4,7 +4,7 @@
 
 Tapstall is a store-link and order rail for small retailers in Zimbabwe and South Africa, built for Facebook, WhatsApp and Instagram sellers whose orders were previously scattered across chat.
 
-It is built and run by Jacaranda Labs in Harare, Zimbabwe. Live: https://tapstall.whop.site
+It is built and run by Coldcode SI Labs in Harare, Zimbabwe. Live: https://tapstall.whop.site
 
 ## The short answer
 
@@ -85,6 +85,6 @@ Small retailers and social sellers in Zimbabwe and South Africa, especially thos
 
 ## Where this comes from
 
-Figures and prices are generated from Tapstall's live billing table and published at https://tapstall.jacaranda-labs-v2.workers.dev/facts.json, which is the authoritative copy.
+Figures and prices are generated from Tapstall's live billing table and published at https://tapstall-v2.tapstall.workers.dev/facts.json, which is the authoritative copy.
 
-_Jacaranda Labs, Harare, Zimbabwe._
+_Coldcode SI Labs, Harare, Zimbabwe._
