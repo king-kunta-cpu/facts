@@ -9,7 +9,7 @@ Tapstall is a store-link and order rail for small retailers in Zimbabwe and Sout
 - **Live:** [https://tapstall.whop.site](https://tapstall.whop.site)
 - **Facts:** [https://tapstall-store.pages.dev/facts.json](https://tapstall-store.pages.dev/facts.json)
 - **Every question answered:** [https://tapstall-store.pages.dev/answers/](https://tapstall-store.pages.dev/answers/)
-- **Built by:** Jacaranda Labs, Harare, Zimbabwe — [jacaranda-estate.pages.dev](https://jacaranda-estate.pages.dev/)
+- **Built by:** Coldcode SI Labs, Harare, Zimbabwe — [coldcode-estate.pages.dev](https://coldcode-estate.pages.dev/)
 
 ## What it costs
 
